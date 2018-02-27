@@ -7,13 +7,13 @@
 （请在上课前完成）
 
 * 完成lec1的视频学习和提交对应的在线练习
-* git pull ucore\_os\_lab, ucore\_os\_docs, os\_tutorial\_lab, os\_course\_exercises in github repos。这样可以在本机上完成课堂练习。
+* git pull ucore\_os\_lab, ucore\_os\_docs, os\_tutorial\_lab, os\_course\_exercises in github repos。这样可以在本机上完成课堂练习。（完成）
 * 知道OS课程的入口网址，会使用在线视频平台，在线练习/实验平台，在线提问平台\(piazza\)
-  * [http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring)
+  * [http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring)（完成）
 
 
-* 会使用linux shell命令，如ls, rm, mkdir, cat, less, more, gcc等，也会使用linux系统的基本操作。
-* 在piazza上就学习中不理解问题进行提问。
+* 会使用linux shell命令，如ls, rm, mkdir, cat, less, more, gcc等，也会使用linux系统的基本操作。（完成）
+* 在piazza上就学习中不理解问题进行提问。（完成）
 
 
 
@@ -21,7 +21,7 @@
 
 ## 填空题
 
-* 当前常见的操作系统主要用____编程语言编写。
+* 当前常见的操作系统主要用<u> c </u>编程语言编写。
 * "Operating system"这个单词起源于____。
 * 在计算机系统中，控制和管理____、有效地组织____运行的系统软件称作____。
 * 允许多用户将若干个作业提交给计算机系统集中处理的操作系统称为____操作系统
